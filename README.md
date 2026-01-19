@@ -24,23 +24,6 @@ A **Swiggy Live API Clone** built using **React** that replicates real-world foo
 - 🔹 Hosted on **Vercel** with ~99.9% uptime  
 - 🔹 Tested under **500+ concurrent user simulation**
 
----
-
-## 📁 Project Structure
-
-Swiggy-clone/
-│
-├── src/
-│ ├── Components/ # Reusable UI components
-│ ├── Stored/ # Context / global state management
-│ ├── Utils/ # Utility functions & helpers
-│ ├── App.js # Root component
-│ ├── index.css # Global styles
-│ └── index.html # HTML entry point
-│
-├── package.json
-├── package-lock.json
-└── README.md
 
 
 ## ⚙️ Installation & Setup
