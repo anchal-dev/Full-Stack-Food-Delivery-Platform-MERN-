@@ -1,4 +1,4 @@
-# Swiggy Clone 🍔🚀
+# Full Stack Food Delivery Platform  🍔🚀
 
 A **Swiggy Live API Clone** built using **React** that replicates real-world food browsing and ordering workflows. The project focuses on performance optimization, scalable state management, and a fully responsive UI.
 
